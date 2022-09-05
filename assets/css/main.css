@@ -2151,11 +2151,11 @@ input, select, textarea {
 	}
 
 	a.icon.alt:hover:before {
-		background-color: #6fc3df;
+		background-color: #80898d;
 	}
 
 	a.icon.alt:active:before {
-		background-color: #37a6cb;
+		background-color: #6b8791;
 	}
 
 /* Image */
@@ -3950,3 +3950,7 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+#custom-header{
+	text-transform: none !important; 
+}

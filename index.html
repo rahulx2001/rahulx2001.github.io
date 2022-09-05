@@ -6,7 +6,7 @@
 	<meta charset="utf-8" />
 	<link rel="icon" href="/favicon.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<link rel="stylesheet" href="assets/sass/main.css" />
+	<link rel="stylesheet" href="assets/css/main.css" />
 	<noscript>
 		<link rel="stylesheet" href="assets/css/noscript.css" />
 	</noscript>
@@ -150,7 +150,7 @@
 			// 	.catch(function (error) {
 			// 		console.log(error);
 			// 	});
-				document.getElementById("submit_button").value = "Sending..."
+			document.getElementById("submit_button").value = "Sending..."
 			axios.post("https://rahul-portfolio-contact-form.herokuapp.com/submit-contact-form", {
 				name: document.getElementById("name").value,
 				email: document.getElementById("email").value,
@@ -162,9 +162,9 @@
 				console.log(err)
 				alert("Some error occured")
 				document.getElementById("submit_button").value = "Send Message"
-			
+
 			})
-			
+
 		}	
 	</script>
 </body>
