@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👯 I’m looking to collaborate on Java Swing<br>🤝 I’m looking for help with Java swing<br>🌱 I’m currently learning DSA<br>💬 Ask me about DSA
+🧑‍💼 I’m looking to collaborate on Java Swing<br>🤝 I’m looking for help with Java swing<br>🌱 I’m currently learning DSA<br>💬 Ask me about DSA
 
 
 ## 🌐 Socials:
